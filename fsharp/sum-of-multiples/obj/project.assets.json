@@ -3738,11 +3738,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\two-fer\\TwoFer.fsproj",
-      "projectName": "TwoFer",
-      "projectPath": "C:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\two-fer\\TwoFer.fsproj",
+      "projectUniqueName": "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\sum-of-multiples\\SumOfMultiples.fsproj",
+      "projectName": "SumOfMultiples",
+      "projectPath": "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\sum-of-multiples\\SumOfMultiples.fsproj",
       "packagesPath": "C:\\Users\\pehrl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\two-fer\\obj\\",
+      "outputPath": "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\sum-of-multiples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
