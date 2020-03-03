@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "a:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\sum-of-multiples\\SumOfMultiples.fsproj": {}
+    "A:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\sum-of-multiples\\SumOfMultiples.fsproj": {}
   },
   "projects": {
-    "a:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\sum-of-multiples\\SumOfMultiples.fsproj": {
+    "A:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\sum-of-multiples\\SumOfMultiples.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "a:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\sum-of-multiples\\SumOfMultiples.fsproj",
+        "projectUniqueName": "A:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\sum-of-multiples\\SumOfMultiples.fsproj",
         "projectName": "SumOfMultiples",
-        "projectPath": "a:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\sum-of-multiples\\SumOfMultiples.fsproj",
+        "projectPath": "A:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\sum-of-multiples\\SumOfMultiples.fsproj",
         "packagesPath": "C:\\Users\\pehrl\\.nuget\\packages\\",
-        "outputPath": "a:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\sum-of-multiples\\obj\\",
+        "outputPath": "A:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\sum-of-multiples\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
