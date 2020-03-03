@@ -1,0 +1,3 @@
+a:\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgrammierung\fsharp\sum-of-multiples\obj\Debug\netcoreapp3.0\SumOfMultiples.fsprojAssemblyReference.cache
+a:\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgrammierung\fsharp\sum-of-multiples\obj\Debug\netcoreapp3.0\SumOfMultiples.AssemblyInfoInputs.cache
+a:\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgrammierung\fsharp\sum-of-multiples\obj\Debug\netcoreapp3.0\SumOfMultiples.AssemblyInfo.fs

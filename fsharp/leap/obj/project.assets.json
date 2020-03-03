@@ -3738,11 +3738,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "a:\\Projects\\fnktProgrammierung\\fsharp\\fsharp\\leap\\Leap.fsproj",
+      "projectUniqueName": "A:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\leap\\Leap.fsproj",
       "projectName": "Leap",
-      "projectPath": "a:\\Projects\\fnktProgrammierung\\fsharp\\fsharp\\leap\\Leap.fsproj",
+      "projectPath": "A:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\leap\\Leap.fsproj",
       "packagesPath": "C:\\Users\\pehrl\\.nuget\\packages\\",
-      "outputPath": "a:\\Projects\\fnktProgrammierung\\fsharp\\fsharp\\leap\\obj\\",
+      "outputPath": "A:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\leap\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -3738,11 +3738,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "a:\\Projects\\fnktProgrammierung\\fsharp\\isogram\\Isogram.fsproj",
+      "projectUniqueName": "A:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\isogram\\Isogram.fsproj",
       "projectName": "Isogram",
-      "projectPath": "a:\\Projects\\fnktProgrammierung\\fsharp\\isogram\\Isogram.fsproj",
+      "projectPath": "A:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\isogram\\Isogram.fsproj",
       "packagesPath": "C:\\Users\\pehrl\\.nuget\\packages\\",
-      "outputPath": "a:\\Projects\\fnktProgrammierung\\fsharp\\isogram\\obj\\",
+      "outputPath": "A:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\isogram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

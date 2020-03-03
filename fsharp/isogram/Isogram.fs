@@ -1,3 +1,10 @@
 ﻿module Isogram
 
-let isIsogram str = failwith "You need to implement this function."
+open System
+
+let isIsogram (str: string) =
+    let word = str.ToUpper().ToCharArray() |> Seq.filter Char.IsLetter
+
+    if (Seq.length word = (Seq.distinct word |> Seq.length))
+    then true
+    else false
