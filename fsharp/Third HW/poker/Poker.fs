@@ -59,7 +59,7 @@ let calcScore (hand: string) =
 
     let score =
         if (straight) && flush.Contains(5) then
-            500000 + (sortedValues |> List.sum)
+            500000 + (sortedValues.Head) + (sortedValues.Item(1)) + (sortedValues.Item(2))
         else if (babyStraight) && flush.Contains(5) then
             500000
         else if matchingCardsCount.Contains(4) then
@@ -67,8 +67,7 @@ let calcScore (hand: string) =
         else if (matchingCardsCount.Contains(3) && matchingCardsCount.Contains(2)) then
             400000 + matchingCardVal.Head * 10 + matchingCardVal.Item(1)
         else if (flush.Contains(5)) then // the flush with the highest card wins
-            350000 + (sortedValues.Head * 5) + (sortedValues.Item(1) * 4) + (sortedValues.Item(2) * 3)
-            + (sortedValues.Item(3) * 2) + (sortedValues.Item(4) * 1)
+            350000 + (sortedValues.Head) + (sortedValues.Item(1)) + (sortedValues.Item(2))
         else if (straight) then
             300000 + (sortedValues.Item(4))
         else if (babyStraight) then

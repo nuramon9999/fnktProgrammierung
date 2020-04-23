@@ -112,3 +112,4 @@ C:\Users\pehrl\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgra
 C:\Users\pehrl\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgrammierung\fsharp\Third HW\poker\obj\Debug\netcoreapp3.0\Poker.dll
 C:\Users\pehrl\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgrammierung\fsharp\Third HW\poker\obj\Debug\netcoreapp3.0\Poker.pdb
 C:\Users\pehrl\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgrammierung\fsharp\Third HW\poker\obj\Debug\netcoreapp3.0\Poker.genruntimeconfig.cache
+c:\Users\pehrl\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgrammierung\fsharp\Third HW\poker\obj\Debug\netcoreapp3.0\Poker.fsproj.CoreCompileInputs.cache

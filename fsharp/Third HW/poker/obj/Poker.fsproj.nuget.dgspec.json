@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\Third HW\\poker\\Poker.fsproj": {}
+    "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\Third HW\\poker\\Poker.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\Third HW\\poker\\Poker.fsproj": {
+    "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\Third HW\\poker\\Poker.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\Third HW\\poker\\Poker.fsproj",
+        "projectUniqueName": "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\Third HW\\poker\\Poker.fsproj",
         "projectName": "Poker",
-        "projectPath": "C:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\Third HW\\poker\\Poker.fsproj",
+        "projectPath": "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\Third HW\\poker\\Poker.fsproj",
         "packagesPath": "C:\\Users\\pehrl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\Third HW\\poker\\obj\\",
+        "outputPath": "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\Third HW\\poker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pehrl\\AppData\\Roaming\\NuGet\\NuGet.Config"
