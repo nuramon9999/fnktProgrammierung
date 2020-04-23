@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "a:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\TrestProj\\TrestProj.fsproj": {}
+    "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\TestProj\\TrestProj.fsproj": {}
   },
   "projects": {
-    "a:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\TrestProj\\TrestProj.fsproj": {
+    "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\TestProj\\TrestProj.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "a:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\TrestProj\\TrestProj.fsproj",
+        "projectUniqueName": "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\TestProj\\TrestProj.fsproj",
         "projectName": "TrestProj",
-        "projectPath": "a:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\TrestProj\\TrestProj.fsproj",
+        "projectPath": "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\TestProj\\TrestProj.fsproj",
         "packagesPath": "C:\\Users\\pehrl\\.nuget\\packages\\",
-        "outputPath": "a:\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\TrestProj\\obj\\",
+        "outputPath": "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\TestProj\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\pehrl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
@@ -36,7 +33,8 @@
           "dependencies": {
             "FSharp.Core": {
               "target": "Package",
-              "version": "[4.7.0, )"
+              "version": "[4.7.0, )",
+              "generatePathProperty": true
             }
           },
           "imports": [
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

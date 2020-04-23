@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M3Gjsiwi55QeTZnfOdV8wHpqSv5k+48OFxqKla61rKtLfyXaI9kdAmAfs24vybPP0OBdHLOEoPTn7UXQ7mSaJg==",
+  "dgSpecHash": "Gp36zeTCd/fFwQSVOB765bRLLr4c3I6gVvqqbMa+Jc5g5O42hIAkmc6zje5txv3VkEId7H3iMftFdMWFQATQdw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\poker\\Poker.fsproj",
+  "projectFilePath": "C:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\Third HW\\poker\\Poker.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\pehrl\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512",
     "C:\\Users\\pehrl\\.nuget\\packages\\fsunit.xunit\\3.8.1\\fsunit.xunit.3.8.1.nupkg.sha512",

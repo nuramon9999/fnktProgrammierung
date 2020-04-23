@@ -108,3 +108,8 @@ A:\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgrammierung\fsh
 A:\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgrammierung\fsharp\sum-of-multiples\obj\Debug\netcoreapp3.0\SumOfMultiples.fsproj.CopyComplete
 A:\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgrammierung\fsharp\sum-of-multiples\obj\Debug\netcoreapp3.0\SumOfMultiples.dll
 A:\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgrammierung\fsharp\sum-of-multiples\obj\Debug\netcoreapp3.0\SumOfMultiples.pdb
+c:\Users\pehrl\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgrammierung\fsharp\First HW\sum-of-multiples\obj\Debug\netcoreapp3.0\SumOfMultiples.fsproj.CoreCompileInputs.cache
+c:\Users\pehrl\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgrammierung\fsharp\First HW\sum-of-multiples\obj\Debug\netcoreapp3.0\SumOfMultiples.AssemblyInfoInputs.cache
+c:\Users\pehrl\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgrammierung\fsharp\First HW\sum-of-multiples\obj\Debug\netcoreapp3.0\SumOfMultiples.AssemblyInfo.fs
+c:\Users\pehrl\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgrammierung\fsharp\First HW\sum-of-multiples\obj\Debug\netcoreapp3.0\SumOfMultiples.dll
+c:\Users\pehrl\Google Drive\Uni\Semester 6\Funktionale Programmierung\fnktProgrammierung\fsharp\First HW\sum-of-multiples\obj\Debug\netcoreapp3.0\SumOfMultiples.pdb

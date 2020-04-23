@@ -3773,11 +3773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\poker\\Poker.fsproj",
+      "projectUniqueName": "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\Third HW\\poker\\Poker.fsproj",
       "projectName": "Poker",
-      "projectPath": "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\poker\\Poker.fsproj",
+      "projectPath": "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\Third HW\\poker\\Poker.fsproj",
       "packagesPath": "C:\\Users\\pehrl\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\poker\\obj\\",
+      "outputPath": "c:\\Users\\pehrl\\Google Drive\\Uni\\Semester 6\\Funktionale Programmierung\\fnktProgrammierung\\fsharp\\Third HW\\poker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pehrl\\AppData\\Roaming\\NuGet\\NuGet.Config"
